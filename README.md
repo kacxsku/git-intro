@@ -7,10 +7,11 @@ N. Ćwiczenie do wykonania.
 ```
 po wykonaniu ma wyglądać następująco:
 ```
-Zadania do wykonania
 
 N. (*) Ćwiczenie do wykonania.
 ```
+Zadania do wykonania
+
 
 Zadanie 1. `(*)` Zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna). \
 Zadanie 2. `(*)` Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1. \
@@ -20,7 +21,6 @@ Zadanie 5. `(*)` Dodaj informację numerach albumów członków zespołu w dowol
 Zadanie 6. `(*)` Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna). \
 Zadanie 7. `(*)` Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń. \
 Zadanie 8. `(*)` Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-) \ 
-
 Numery albumów członków zespołów: \
 132892 \
 134157 \
